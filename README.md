@@ -4,7 +4,12 @@ This is a basic Spring Boot CRUD API for managing Spider-Man characters.
 
 ## Deployed API
 
-Render link:
+Render link: https://csc-340-assignment-3.onrender.com
+
+Example endpoint:
+
+https://csc-340-assignment-3.onrender.com/api/characters
+
 
 ## Character Object
 
